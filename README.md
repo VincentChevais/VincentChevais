@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">👋 Salut, moi c'est Vincent Chevais</h1>
 
-<!--
-**VincentChevais/VincentChevais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Développeur Front-End <br/>
+  ⚡ Spécialisé en React, JavaScript et UX moderne <br/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://vincent-chevais-portfolio.netlify.app/" target="_blank">
+    🌐 Voir mon portfolio
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 À propos de moi
+
+Développeur passionné, je conçois des interfaces modernes, performantes et accessibles.  
+J’aime transformer des idées en expériences fluides et intuitives.
+
+- 🎯 Focus : Front-End / UI / UX
+- ⚙️ Stack : React, JavaScript, Sass
+- 🚀 Objectif : créer des produits utiles et élégants
+
+---
+
+## 🛠️ Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,sass,html,css,git" />
+</p>
+
+---
+
+## 📌 Projets
+
+🔹 Retrouvez tous mes projets sur mon portfolio :  
+👉 https://vincent-chevais-portfolio.netlify.app/
+
+---
+
+## 📫 Me contacter
+
+<p>
+  <a href="https://www.linkedin.com/in/vincent-chevais/" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/VincentChevais" target="_blank">GitHub</a> •
+  <a href="mailto:tonmail@example.com">Email</a>
+</p>
+
+---
+
+## ⚡ Fun fact
+
+J'ai opéré une reconversion : de libraire écrivain, me voilà front-end developer avec tous les hard et soft skills qui vont avec : rédaction, gestion, analyse, recherche, relationnel, management. On en parle ?
